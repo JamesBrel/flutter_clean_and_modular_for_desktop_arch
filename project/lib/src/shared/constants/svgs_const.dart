@@ -1,0 +1,1 @@
+// const elementNameSvg = "assets/images/svg/name_file.svg";

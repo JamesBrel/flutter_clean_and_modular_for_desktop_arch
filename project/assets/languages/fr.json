@@ -1,0 +1,11 @@
+{
+  "welcome_text": "Salut Tout le Monde 😉",
+  "no_connection_text": "Pas de connexion internet",
+  "time_error_text": "Temps d'éxécution dépassé",
+  "request_error_try_again_text": "Erreur de requête, Réessayer !",
+  "no_content_text": "Aucun contenu",
+  "internal_error_text": "Erreur sur le serveur",
+  "crop_image_text": "Trimmer l'Image",
+  "no_image_take_text": "Erreur durant la prise d'image, Veuillez réessayer !",
+  "device_error_text": "Erreur au niveau de votre appareil"
+}
